@@ -4,15 +4,6 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Stack;
 
-/**
- *    
- *     @author Aniket Pathak: adp170003
- *     @author Pranjal Deshmukh: psd180000
- *     @author Tanu Rampal: txr180007
- *     @author Abhilasha Devkar: acd170130
- *     Long Project 1: Num - To Perform Integer arithmetic with arbitrarily large numbers
- *
- */
 
 public class Num implements Comparable<Num> {
 
